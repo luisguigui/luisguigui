@@ -49,11 +49,6 @@ Ao longo dos próximos semestres, estarei consolidando competências em:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-### 📫 Conecte-se Comigo
-* **Formação:** Faculdade UNIUBE (Uberaba-MG)
-* **Status:** 3º / 5º Período (Concluídos: Ciclo de Lógica, Dados e Infraestrutura básica)
----
 
 ## 📊 Github Stats
 
