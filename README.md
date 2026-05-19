@@ -54,3 +54,49 @@ Ao longo dos próximos semestres, estarei consolidando competências em:
 ### 📫 Conecte-se Comigo
 * **Formação:** Faculdade UNIUBE (Uberaba-MG)
 * **Status:** 3º / 5º Período (Concluídos: Ciclo de Lógica, Dados e Infraestrutura básica)
+* # 👋 Olá, sou o Luís Guilherme Gomes Bernardes! 👨‍💻
+
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas (UNIUBE)** 📍 Uberaba, MG, Brasil  
+
+---
+
+### 🎯 Perfil Profissional
+Desenvolvedor em formação focado em **Python** e **Engenharia de Software**. Atualmente no 3º período de ADS, possuo uma base sólida em **Estrutura de Dados**, **Modelagem de Bancos de Dados Relacionais (SQL)** e **Arquitetura de Sistemas**. 
+
+Utilizo bibliotecas modernas como **CustomTkinter** para o desenvolvimento de interfaces funcionais e integro soluções de backend com persistência de dados. Estou focado em aplicar esses conhecimentos em automação de processos, análise de dados e desenvolvimento de sistemas internos.
+
+---
+
+## 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisguigui&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisguigui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Luis Guilherme's GitHub stats" />
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />&nbsp;
+</p>
+
+---
+
+## ⚙️ Hard Skills (UNIUBE)
+
+* **Banco de Dados I (108hrs):** Modelagem relacional, escrita de consultas SQL estruturadas e manipulação de dados (CRUD).
+* **Lógica e Estrutura de Dados:** Algoritmos, gerenciamento de estados e persistência de dados em arquivos (JSON/SQLite).
+* **Interface Homem-MÁQUINA (IHM):** Desenvolvimento de GUIs modernas e intuitivas com foco em usabilidade (CustomTkinter).
+* **Gestão e Infraestrutura:** Engenharia de software, gerenciamento de projetos, arquitetura de computadores e redes.
+
+---
+
+### 📫 Conecte-se comigo
+* **Status Atual:** 3º / 5º Período concluídos com foco em lógica, dados e infraestrutura.
