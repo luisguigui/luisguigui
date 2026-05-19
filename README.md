@@ -74,7 +74,7 @@ Utilizo bibliotecas modernas como **CustomTkinter** para o desenvolvimento de in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisguigui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Luis Guilherme's GitHub stats" />
+ 
 </p>
 
 ---
