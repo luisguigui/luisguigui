@@ -50,21 +50,9 @@ Ao longo dos próximos semestres, estarei consolidando competências em:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
-
 ### 📫 Conecte-se Comigo
 * **Formação:** Faculdade UNIUBE (Uberaba-MG)
 * **Status:** 3º / 5º Período (Concluídos: Ciclo de Lógica, Dados e Infraestrutura básica)
-* # 👋 Olá, sou o Luís Guilherme Gomes Bernardes! 👨‍💻
-
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas (UNIUBE)** 📍 Uberaba, MG, Brasil  
-
----
-
-### 🎯 Perfil Profissional
-Desenvolvedor em formação focado em **Python** e **Engenharia de Software**. Atualmente no 3º período de ADS, possuo uma base sólida em **Estrutura de Dados**, **Modelagem de Bancos de Dados Relacionais (SQL)** e **Arquitetura de Sistemas**. 
-
-Utilizo bibliotecas modernas como **CustomTkinter** para o desenvolvimento de interfaces funcionais e integro soluções de backend com persistência de dados. Estou focado em aplicar esses conhecimentos em automação de processos, análise de dados e desenvolvimento de sistemas internos.
-
 ---
 
 ## 📊 Github Stats
