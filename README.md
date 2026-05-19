@@ -100,3 +100,4 @@ Utilizo bibliotecas modernas como **CustomTkinter** para o desenvolvimento de in
 
 ### 📫 Conecte-se comigo
 * **Status Atual:** 3º / 5º Período concluídos com foco em lógica, dados e infraestrutura.
+* <p>https://www.linkedin.com/in/luis-guilherme-a49708355/</p>
