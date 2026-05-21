@@ -50,17 +50,6 @@ Ao longo dos próximos semestres, estarei consolidando competências em:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-## 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisguigui&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
- 
-</p>
-
----
 
 ## 🛠️ Languages and Tools
 
