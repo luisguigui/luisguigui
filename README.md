@@ -1,4 +1,4 @@
-# 👨‍💻 Luís Guilherme Gomes Bernardes
+# Luís Guilherme Gomes Bernardes
 **Graduando em Análise e Desenvolvimento de Sistemas (UNIUBE)** 📍 Uberaba, MG, Brasil  
 
 ---
